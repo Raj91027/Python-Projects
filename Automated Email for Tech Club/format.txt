@@ -1,0 +1,30 @@
+Dear Participants,
+
+We would like to extend our heartfelt appreciation to all of you who participated in Aptitude and Verbal test conducted on Wednesday for joining the Technical Club.
+Your enthusiasm and commitment to showcasing your skills are truly commendable.
+
+Congratulations on successfully completing the first round of our selection process!
+
+We are excited to move forward to the second round, which will focus on your coding skills.
+If you have completed the verbal and aptitude tests, you would have received a link to the coding test directly in your email today.
+
+Ensure that you complete the test by the specified deadline.
+
+Your participation is a testament to your dedication to expanding your technical knowledge and contributing to our vibrant community.
+We are thrilled to have such talented and motivated individuals eager to be part of our club.
+
+Best of luck, and we look forward to seeing your coding skills in action.
+
+Here, we are providing details of coding test.
+
+Platform: HackerRank
+Start Time: 03-Aug-2024 08:00 PM
+End Time: 03-Aug-2024 09:00 PM
+Duration: 60 mins
+Format: 2 DSA based Question(Easy Level)
+
+Here you can directly headover to th test link:
+Link : https://www.hackerrank.com/sistk-cse-technical-club-coding-test
+
+Regards
+Technical Club(SISTK CSE)
